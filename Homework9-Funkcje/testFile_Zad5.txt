@@ -1,0 +1,4 @@
+Some random text from testFile_Zad5! :D 
+Another Text. Some numbers: 78,87,54. 
+$#@()^&$
+Good night!
